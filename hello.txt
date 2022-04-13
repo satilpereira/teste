@@ -1,5 +1,7 @@
 hello world
 
+hello, joao
+
 Eu sou o Satil
 
 int main void () {
